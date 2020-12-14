@@ -1,0 +1,12 @@
+body {
+	font-family: "Lato", sans-serif;
+  background-color: rgb(223, 223, 223);
+}
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}    
